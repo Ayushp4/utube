@@ -1,7 +1,7 @@
 
 class Messages:
 
-    START_MSG = "Hi there {}.\n\nI'm Youtube Uploader Bot.You can use me to upload any telegram video to youtube once you authorise me.You can know more from /help.\n\nThank you."
+    START_MSG = "Hi there {}.\n\nI'm Youtube Uploader Bot.You can use me to upload any telegram video to youtube once you authorise me. Bot forked by @Spidey_xD You can know more from /help.\n\nThank you."
 
     HELP_MSG = [
         ".",
